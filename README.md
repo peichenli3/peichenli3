@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @peichenli3
+- 👋 Hi, I’m Peichen (Kevin) Li
 - 👀 I’m interested in financial economics
-- 📫 peichen3@illinois.edu
+- 📫 Feel free to contact me via peichen3@illinois.edu
 
 <!---
 peichenli3/peichenli3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
