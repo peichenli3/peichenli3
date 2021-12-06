@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Peichen (Kevin) Li
-- 👀 I’m interested in financial economics
+- 👀 I’m interested in studying financial markets
 - 📫 Feel free to contact me via peichen3@illinois.edu
 
 <!---
