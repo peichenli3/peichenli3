@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Peichen (Kevin) Li
-- 👀 I’m interested in studying financial markets
-- 📫 Feel free to contact me via peichen3@illinois.edu
+- 👋 Hi there, my name is Peichen Li.
+- 👀 I’m broadly interested in data science and financial economics.
+- 📫 if you would like to chat, feel free to send me an email via peichenli.finecon@gmail.com
 
 <!---
 peichenli3/peichenli3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
