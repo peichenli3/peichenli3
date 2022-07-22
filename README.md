@@ -1,7 +1,7 @@
 - 👋 Hi there, my name is Peichen Li (李培晨).
 - 👀 I’m broadly interested in data science and financial economics.
 - 📫 if you would like to connect or chat, feel free to send me an email to peichenli.finecon@gmail.com
-- Cheers!
+- 🍺 Cheers!
 
 <!---
 peichenli3/peichenli3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
