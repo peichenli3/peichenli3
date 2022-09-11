@@ -1,6 +1,6 @@
-- 👋 Hi there, my name is Peichen Li (李培晨).
-- 👀 I’m broadly interested in data science and financial economics (esp. household finance, market microstructure and big data).
-- 📫 if you would like to connect, please email me via peichenli.finecon@gmail.com
+- 👋 Greetings, my name is Peichen Li (李培晨).
+- 👀 I’m broadly interested in data science and financial economics, with a focus on household finance, financial markets and big data.
+- 📫 Email: peichenli.finecon@gmail.com
 - 🍺 Cheers!
 
 <!---
